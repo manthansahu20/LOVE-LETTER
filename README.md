@@ -10,7 +10,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Brush+Script+MT&size=30&pause=2000&color=FF69B4&center=true&vCenter=true&width=800&lines=This+is+not+just+a+website...;It+is+a+confession+%F0%9F%92%9E;It+is+a+heartbeat+in+HTML+%F0%9F%92%97" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Brush+Script+MT&size=30&pause=2000&color=FF69B4&center=true&vCenter=true&width=800&lines=This+is+not+just+a+project...;It+is+a+confession+%F0%9F%92%9E;It+is+a+heartbeat+in+HTML+%F0%9F%92%97" />
 </p>
 
 ---
