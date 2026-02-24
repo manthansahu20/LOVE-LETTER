@@ -1,67 +1,84 @@
-<h1 align="center">❤️ LOVE LETTER ❤️</h1>
-
+<!-- 🌸 Floating Romantic Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF4C8B&center=true&vCenter=true&width=700&lines=Digital+Romance+Project+%F0%9F%92%95;Animated+Web+Love+Letter+%F0%9F%92%8C;Crafted+With+HTML+CSS+%26+JS" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=45&pause=1200&color=FF1493&center=true&vCenter=true&width=900&height=120&lines=LOVE+LETTER+%F0%9F%92%8C;A+Story+Written+In+Heartbeat+%F0%9F%92%95;Some+Feelings+Are+Meant+To+Be+Coded..." />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5" />
-  <img src="https://img.shields.io/badge/CSS-3-blue?style=for-the-badge&logo=css3" />
-  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge" />
+  <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" width="250"/>
 </p>
 
 ---
 
-## 💖 Project Overview
-
-This project is a **romantic animated web experience** designed to deliver emotions through elegant UI and smooth animation.
-
-It combines:
-- 💫 Soft transitions  
-- 🌸 Romantic typography  
-- 💌 Emotional storytelling  
-
----
-
-## 🌍 Live Experience
-
-🔗 https://manthansahu20.github.io/LOVE-LETTER/
-
----
-
-## 🎯 Highlights
-
-✔ Fully animated layout  
-✔ Smooth CSS keyframe effects  
-✔ Clean & readable structure  
-✔ Mobile friendly  
-✔ Lightweight & fast  
-
----
-
-## 📸 Visual Touch
-
 <p align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="280"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Brush+Script+MT&size=30&pause=2000&color=FF69B4&center=true&vCenter=true&width=800&lines=This+is+not+just+a+website...;It+is+a+confession+%F0%9F%92%9E;It+is+a+heartbeat+in+HTML+%F0%9F%92%97" />
 </p>
 
 ---
 
-## ⚡ Deployment
+## 💌 About This Love Letter
 
-Deployed using **GitHub Pages**  
-Fast. Free. Reliable.
+> "When words were not enough…  
+> I let the code speak."
+
+This project is a **romantic animated digital love letter**  
+crafted with emotion, elegance, and visual poetry.
+
+💖 HTML structures the feelings  
+🎨 CSS animates the emotions  
+✨ JavaScript brings the heartbeat alive  
 
 ---
 
-## 💞 Author
+## 🌹 Live Experience the Magic
 
-👨‍💻 Manthan Sahu  
-"Turning emotions into code."
+<p align="center">
+  💕 👉 https://manthansahu20.github.io/LOVE-LETTER/ 👈 💕
+</p>
+
+---
+
+## 💘 What Makes It Special?
+
+🌸 Smooth romantic text animations  
+💞 Soft glowing visual effects  
+✨ Elegant transitions like a heartbeat  
+🎀 Responsive on every device  
+🎁 Perfect for surprising someone special  
+
+---
+
+## 💖 Visual Romance
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="300"/>
+</p>
+
+---
+
+## 💎 Tech Behind The Feelings
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-5-FF69B4?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS-3-FF1493?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/JavaScript-ES6-FF69B4?style=for-the-badge&logo=javascript" />
+</p>
+
+---
+
+## 💞 A Message From The Creator
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=30&pause=2000&color=FF1493&center=true&vCenter=true&width=700&lines=Love+is+not+just+spoken...;It+is+felt.;And+sometimes...;It+is+coded+%E2%9D%A4%EF%B8%8F" />
+</p>
 
 ---
 
 <p align="center">
-  💗 If you like this project, give it a ⭐ on GitHub 💗
+  💖 Made with infinite love by <b>Manthan Sahu</b> 💖
+</p>
+
+---
+
+<p align="center">
+  🌹 If this made your heart smile, give it a ⭐ 🌹
 </p>
