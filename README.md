@@ -3,9 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=45&pause=1200&color=FF1493&center=true&vCenter=true&width=900&height=120&lines=LOVE+LETTER+%F0%9F%92%8C;A+Story+Written+In+Heartbeat+%F0%9F%92%95;Some+Feelings+Are+Meant+To+Be+Coded..." />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" width="250"/>
-</p>
 
 ---
 
